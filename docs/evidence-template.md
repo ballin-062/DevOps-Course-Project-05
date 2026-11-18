@@ -2,11 +2,11 @@
 
 Name:
 GitHub repository URL:
-
+github.com/ballin-062/DevOps-Course-Project-05/
 ## Part A - Starting validation
-- Local pytest result:
+- Local pytest result: ALL PASSED
 - Initial CI workflow run URL:
-
+github.com/ballin-062/DevOps-Course-Project-05/actions
 ## Part B - Week 5 build automation
 - Pull request URL:
 - Successful workflow run URL:
